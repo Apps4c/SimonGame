@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: #8da3ba;
 }
 
 #level-title {
@@ -50,4 +50,13 @@ body {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(47, 69, 109);
+  color: white;
+  text-align: center;
 }
